@@ -1,4 +1,4 @@
-**#Simple Java Login and Registration System**
+# Simple Java Login and Registration System
 A basic **Login and Registration System** implemented in Java. This program allows users to register and log in using the command prompt without any database. It stores user details temporarily in memory and demonstrates how a backend system might handle authentication.
 
 ---
